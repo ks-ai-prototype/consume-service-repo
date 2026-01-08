@@ -1,0 +1,1 @@
+pip install "demo-elt-framework @ https://github.com/ks-ai-prototype/python-sdk-building-process/releases/download/v0.1.4/demo_elt_framework-0.1.0-py3-none-any.whl"
